@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+  RedBlackTree.cpp
+C:\Users\ziads\Desktop\MIU\Final Final Phase2\WordCounter\WordCounter\WordCounter\RedBlackTree.cpp(210,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ziads\Desktop\MIU\Final Final Phase2\WordCounter\WordCounter\WordCounter\RedBlackTree.cpp(246,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ziads\Desktop\MIU\Final Final Phase2\WordCounter\WordCounter\WordCounter\RedBlackTree.cpp(361,23): warning C4018: '<': signed/unsigned mismatch
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  WordCounter.vcxproj -> C:\Users\ziads\Desktop\MIU\Final Final Phase2\WordCounter\WordCounter\Debug\WordCounter.exe

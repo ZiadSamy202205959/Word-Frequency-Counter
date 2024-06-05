@@ -1,0 +1,19 @@
+C:\Users\Yousef\Downloads\WordCounter\WordCounter\Debug\WordCounter.vcxproj.AssemblyReference.cache
+C:\Users\Yousef\Downloads\WordCounter\WordCounter\Debug\WordCounter.MyForm.resources
+C:\Users\Yousef\Downloads\WordCounter\WordCounter\Debug\WordCounter.vcxproj.GenerateResource.cache
+C:\Users\pc\Desktop\WordCounter\WordCounter\WordCounter\Debug\WordCounter.vcxproj.AssemblyReference.cache
+C:\Users\pc\Desktop\WordCounter\WordCounter\WordCounter\Debug\WordCounter.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\WordCounter\WordCounter\WordCounter\Debug\WordCounter.MyForm.resources
+C:\Users\pc\Desktop\WordCounter\WordCounter\WordCounter\Debug\WordCounter.vcxproj.GenerateResource.cache
+G:\Final Final Phase2\WordCounter\WordCounter\WordCounter\Debug\WordCounter.vcxproj.AssemblyReference.cache
+G:\Final Final Phase2\WordCounter\WordCounter\WordCounter\Debug\WordCounter.vcxproj.SuggestedBindingRedirects.cache
+G:\Final Final Phase2\WordCounter\WordCounter\WordCounter\Debug\WordCounter.MyForm.resources
+G:\Final Final Phase2\WordCounter\WordCounter\WordCounter\Debug\WordCounter.vcxproj.GenerateResource.cache
+C:\Users\ziads\Desktop\Final Final Phase2\WordCounter\WordCounter\WordCounter\Debug\WordCounter.vcxproj.AssemblyReference.cache
+C:\Users\ziads\Desktop\Final Final Phase2\WordCounter\WordCounter\WordCounter\Debug\WordCounter.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ziads\Desktop\Final Final Phase2\WordCounter\WordCounter\WordCounter\Debug\WordCounter.MyForm.resources
+C:\Users\ziads\Desktop\Final Final Phase2\WordCounter\WordCounter\WordCounter\Debug\WordCounter.vcxproj.GenerateResource.cache
+C:\Users\ziads\Desktop\MIU\Final Final Phase2\WordCounter\WordCounter\WordCounter\Debug\WordCounter.vcxproj.AssemblyReference.cache
+C:\Users\ziads\Desktop\MIU\Final Final Phase2\WordCounter\WordCounter\WordCounter\Debug\WordCounter.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ziads\Desktop\MIU\Final Final Phase2\WordCounter\WordCounter\WordCounter\Debug\WordCounter.MyForm.resources
+C:\Users\ziads\Desktop\MIU\Final Final Phase2\WordCounter\WordCounter\WordCounter\Debug\WordCounter.vcxproj.GenerateResource.cache
